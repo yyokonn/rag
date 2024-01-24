@@ -1,4 +1,3 @@
-# Ref: https://github.com/nishanthegde/rag-from-scratch/tree/main
 import chromadb
 import openai
 import os
