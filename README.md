@@ -1,4 +1,4 @@
-# RAG Implementation from Scratch
+# RAG Implementation
 Implementation using GPT-3.5 and ChromaDB for vector storage, instead of using a RAG framework.
 
 Reference: https://github.com/nishanthegde/rag-from-scratch/tree/main by Nishant Hegde
